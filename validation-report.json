@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "language": "ja",
+  "countries": [
+    "US",
+    "AU",
+    "KR"
+  ],
+  "chapters": 116,
+  "entries": 1194,
+  "sections": 119,
+  "anchors": 1314,
+  "brokenInternalLinks": [],
+  "unrestoredTokens": 0,
+  "htmlBytes": 5609735,
+  "translation": "machine draft with model-reviewed nationality adaptation, flagged errors and targeted high-risk checks; not professional full-text review"
+}

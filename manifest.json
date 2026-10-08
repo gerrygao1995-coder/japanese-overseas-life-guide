@@ -1,0 +1,35 @@
+{
+  "language": "ja",
+  "edition": "日本人のための海外生活ガイド",
+  "translation_date": "2026-10-09",
+  "countries": [
+    {
+      "code": "US",
+      "name": "アメリカ",
+      "chapters": 40,
+      "entries": 200,
+      "file": "US.md",
+      "sha256": "504146ccdf0856198181892366d4a307cab89cb5c34858d7e93ca5d438b5ea61",
+      "source": "https://github.com/gerrygao1995-coder/the-american-life-playbook"
+    },
+    {
+      "code": "AU",
+      "name": "オーストラリア",
+      "chapters": 40,
+      "entries": 720,
+      "file": "AU.md",
+      "sha256": "1b6a6cc15034a0bdb57bcb2f579d3aead538d81df3d38883d6ed98c9c7196107",
+      "source": "https://github.com/gerrygao1995-coder/live-better-australia"
+    },
+    {
+      "code": "KR",
+      "name": "韓国",
+      "chapters": 36,
+      "entries": 274,
+      "file": "KR.md",
+      "sha256": "dd26029bd669576462c47affe2d03ca876a6fd63205861650cfef9e5e8720334",
+      "source": "https://github.com/gerrygao1995-coder/better-life-korea"
+    }
+  ],
+  "quality": "原言語からの機械翻訳を下訳とし、国籍・在留資格に関わる経路と重要な表現をモデルで校訂しました。専門翻訳者による全文の逐語校閲、全制度の個別資格審査、全出典の同日再検証は行っていません。"
+}
